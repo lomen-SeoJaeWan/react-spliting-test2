@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-spliting-test2/static/css/main.8b0c53c6.css",
+    "main.js": "/react-spliting-test2/static/js/main.203310f4.js",
+    "static/js/453.9a0edc82.chunk.js": "/react-spliting-test2/static/js/453.9a0edc82.chunk.js",
+    "index.html": "/react-spliting-test2/index.html",
+    "main.8b0c53c6.css.map": "/react-spliting-test2/static/css/main.8b0c53c6.css.map",
+    "main.203310f4.js.map": "/react-spliting-test2/static/js/main.203310f4.js.map",
+    "453.9a0edc82.chunk.js.map": "/react-spliting-test2/static/js/453.9a0edc82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0c53c6.css",
+    "static/js/main.203310f4.js"
+  ]
+}
